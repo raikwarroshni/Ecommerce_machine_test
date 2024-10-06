@@ -1,7 +1,7 @@
 {
-  "name": "roshni",
+  "name": "Ecommerce web",
   "version": "1.0.0",
-  "description": "this is for practise",
+  "description": "this is for Ecommerce system",
   "main": "index.js",
   "type": "module",
   "scripts": {
