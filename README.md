@@ -21,6 +21,12 @@ After installation, you can run the project by executing the following command:
 
 6. Create an order, remove a product from the cart, and update the order status in the admin section. The API uses _id, which means you have to use the _id from the add to cart list api.
 
+7. you can get category_id from category list api.
+
+8. you can get role_id from role list api.
+
+
+
 
 
 
