@@ -4,7 +4,7 @@
 
 1. Clone the repository:
 
-   https://github.com/raikwarroshni/Ecommerce_system
+   https://github.com/raikwarroshni/Ecommerce_machine_test
 
 2. npm install
 
